@@ -33,8 +33,8 @@ res = '\x1b[40m'
 banner = f"""
 {h}╔══════════════════════════════════════════╗
 {h}║{m}       🔥 SPAM OTP TOOL UPDATE 2026 🔥      {h}║
-{h}║{k}          Author: ./shopeebjm              {h}║
-{h}║{b}     Thanks: FourX, MhankBarBar, ITachI    {h}║
+{h}║{k}          Author: ./Tepzz              {h}║
+{h}║{b}     Thanks: Tepzzz    {h}║
 {h}╚══════════════════════════════════════════╝{p}
 """
 
